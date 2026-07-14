@@ -1,2 +1,0 @@
-# CODSOFT
-“C++ Programming” INTERNSHIP
